@@ -1,0 +1,23 @@
+.user-info-content .container {
+  display: flex;
+  flex-direction: column;
+  background: #59C9A5;
+  height: 35vh;
+  padding: 1rem; }
+
+.user-info-content .user-info {
+  display: flex; }
+
+.user-info-content .container img {
+  width: 12rem;
+  padding: 1rem;
+  border-radius: 50%; }
+
+.user-info-content .container h1 {
+  font-style: italic;
+  font-size: 2rem;
+  color: #465775; }
+
+.user-info-content .container p {
+  text-align: left;
+  padding-top: 1.5rem; }

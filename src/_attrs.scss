@@ -1,0 +1,19 @@
+.attrs-content .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 23vh;
+  background: #DCEDFF;
+  color: #59C9A5; }
+
+.attrs-content .container .attr {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.attrs-content .container .attr-1, .attr-2 {
+  border-right: 2px solid #465775; }
+
+.attrs-content .container i {
+  font-size: 4rem;
+  padding-bottom: 0.75rem; }

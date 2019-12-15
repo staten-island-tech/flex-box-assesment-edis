@@ -1,0 +1,17 @@
+.jumbotron {
+  background: url("../media/jumbotron.jpg") no-repeat center center/cover; }
+
+.jumbotron .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+  color: #65E5A7;
+  background-color: rgba(0, 0, 0, 0.425); }
+
+.jumbotron .container h1 {
+  font-size: 3.5rem; }
+
+.jumbotron .container p {
+  font-size: 1.5rem; }

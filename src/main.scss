@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto&display=swap");
+@import "navbar", "jumbotron", "attrs", "user_info", "footer";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+html {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.4; }
+
+a {
+  text-decoration: none; }
+
+p {
+  text-align: center;
+  padding: 1rem; }
+
+.btn {
+  background: #65E5A7;
+  color: #465775;
+  padding: 0.30rem 0.75rem;
+  border-radius: 0.3rem; }
